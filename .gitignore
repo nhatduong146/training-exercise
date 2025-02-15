@@ -70,3 +70,17 @@ ECommerceMicroservices/src/Services/Product/Product.Infrastructure/obj
 ECommerceMicroservices/src/Services/Product/Product.Infrastructure/bin
 ECommerceMicroservices/src/Services/Product/Product.Test/obj
 ECommerceMicroservices/src/Services/Product/Product.Test/bin
+
+AdvancedAnalyzer/.vs
+AdvancedAnalyzer/AdvancedAnalyzer/bin
+AdvancedAnalyzer/AdvancedAnalyzer/obj
+AdvancedAnalyzer/AdvancedAnalyzer.CodeFixes/bin
+AdvancedAnalyzer/AdvancedAnalyzer.CodeFixes/obj
+AdvancedAnalyzer/AdvancedAnalyzer.Package/bin
+AdvancedAnalyzer/AdvancedAnalyzer.Package/obj
+AdvancedAnalyzer/AdvancedAnalyzer.Test/bin
+AdvancedAnalyzer/AdvancedAnalyzer.Test/obj
+AdvancedAnalyzer/AdvancedAnalyzer.Vsix/bin
+AdvancedAnalyzer/AdvancedAnalyzer.Vsix/obj
+
+
