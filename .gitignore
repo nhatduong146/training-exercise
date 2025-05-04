@@ -83,4 +83,29 @@ AdvancedAnalyzer/AdvancedAnalyzer.Test/obj
 AdvancedAnalyzer/AdvancedAnalyzer.Vsix/bin
 AdvancedAnalyzer/AdvancedAnalyzer.Vsix/obj
 
+AnalyzerConfigRule/.vs
+AnalyzerConfigRule/bin
+AnalyzerConfigRule/obj
 
+/ConcurrencyLab/.vs
+/ConcurrencyLab/bin/Debug/net8.0
+/ConcurrencyLab/obj
+/ConcurrencyLab.ConsoleApp/bin/Debug/net8.0
+/ConcurrencyLab.ConsoleApp/obj
+/ConcurrencyLab.Test/bin/Debug/net8.0
+/ConcurrencyLab.Test/obj
+
+/ParallelExample/.vs
+/ParallelExample/bin/Debug/net8.0
+/ParallelExample/obj
+
+/RESTfullAPI/obj
+/RESTfullAPI/.vs/RESTfullAPI
+
+/ThreadPoolTask/bin/Debug/net8.0
+/ThreadPoolTask/obj
+/CollectionApp/CollectionApp.Yield/obj
+/CollectionApp/.vs
+/CollectionApp/CollectionApp.Yield/bin/Debug/net8.0
+/RESTfullAPI/.vs/ProjectEvaluation
+/RESTfullAPI/bin/Debug/net8.0

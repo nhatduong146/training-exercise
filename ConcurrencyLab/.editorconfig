@@ -1,0 +1,16 @@
+﻿[*.cs]
+
+# CA2007: Consider calling ConfigureAwait on the awaited task
+dotnet_diagnostic.CA2007.severity = none
+
+# CA1848: Use the LoggerMessage delegates
+dotnet_diagnostic.CA1848.severity = none
+
+# S6667: Logging in a catch clause should pass the caught exception as a parameter.
+dotnet_diagnostic.S6667.severity = none
+
+# CA2000: Dispose objects before losing scope
+dotnet_diagnostic.CA2000.severity = suggestion
+
+# S1075: URIs should not be hardcoded
+dotnet_diagnostic.S1075.severity = none
